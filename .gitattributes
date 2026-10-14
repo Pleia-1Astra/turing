@@ -1,0 +1,7 @@
+*.exe binary
+*.dll binary
+*.data binary
+*.png binary
+*.jpg binary
+*.zip binary
+*.lnk binary
